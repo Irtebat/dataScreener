@@ -2,7 +2,7 @@
 
 const data=[
     {
-        name:'Irtebat',
+        name:'Rahul',
         age:21,
         city:'Patna',
         language:'Js',
